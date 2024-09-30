@@ -175,8 +175,8 @@
 
         .profile-pic img {
             border-radius: 50%;
-            width: 130px;
-            height: 130px;
+            width: 200px;
+            height: 200px;
             object-fit: cover;
             border: 4px solid #fff;
         }
