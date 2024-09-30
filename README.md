@@ -177,7 +177,7 @@
             border-radius: 50%;
             width: 200px;
             height: 200px;
-            object-fit: center;
+            object-fit: cover;
             border: 4px solid #fff;
         }
 
