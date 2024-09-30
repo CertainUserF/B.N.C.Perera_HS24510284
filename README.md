@@ -74,7 +74,7 @@
             <div class="skill">
                 <p>Adobe Premiere</p>
                 <div class="progress-bar">
-                    <div class="progress" style="width: 75%;"></div>
+                    <div class="progress" style="width: 85%;"></div>
                 </div>
             </div>
             <div class="skill">
@@ -86,7 +86,7 @@
             <div class="skill">
                 <p>Blender</p>
                 <div class="progress-bar">
-                    <div class="progress" style="width: 70%;"></div>
+                    <div class="progress" style="width: 50%;"></div>
                 </div>
             </div>
         </div>
@@ -174,7 +174,7 @@
         }
 
         .profile-pic img {
-            border-radius: 50%;
+            border-radius: 70%;
             width: 150px;
             height: 150px;
             object-fit: cover;
