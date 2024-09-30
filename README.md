@@ -19,7 +19,7 @@
         </div>
     </header>
 
-  <nav>
+ <nav>
         <ul>
             <li><a href="#about">About Me</a></li>
             <li><a href="#education">Education</a></li>
@@ -31,7 +31,7 @@
         </ul>
     </nav>
 
-  <section id="about">
+   <section id="about">
         <div class="container">
             <h2>About Me</h2>
             <p>
@@ -92,7 +92,7 @@
         </div>
     </section>
 
-  <section id="awards">
+<section id="awards">
         <div class="container">
             <h2>Awards & Achievements</h2>
             <ul>
@@ -104,7 +104,7 @@
         </div>
     </section>
 
-  <section id="hobbies"> <!-- New Hobbies Section -->
+   <section id="hobbies"> <!-- New Hobbies Section -->
         <div class="container">
             <h2>Hobbies</h2>
             <ul>
@@ -117,7 +117,7 @@
         </div>
     </section>
 
-  <section id="resume">
+ <section id="resume">
         <div class="container">
             <h2>Resume</h2>
             <p>You can view and download my resume below:</p>
@@ -125,7 +125,7 @@
         </div>
     </section>
 
-   <section id="other-details">
+<section id="other-details">
         <div class="container">
             <h2>Other Details</h2>
             <p>I actively participate in extracurricular activities. I am a member of the Photographic Society of Sri Lanka, the Sri Lanka Wildlife Conservation Society, and have been part of my school's Tennis and Chess teams. Additionally, I have held leadership positions, including President of the Photographic Society and Assistant Secretary of the Debating Society at Maliyadeva College.</p>
@@ -133,14 +133,14 @@
         </div>
     </section>
 
-  <footer>
+ <footer>
         <div class="container">
             <p>&copy; 2024 Nisura Perera. All rights reserved. | Address: 116/52, North Lake Road, Kurunegala</p>
         </div>
     </footer>
 
    <style>
-        /* styles.css */
+       /* styles.css */
         body {
             font-family: Arial, sans-serif;
             line-height: 1.6;
@@ -175,8 +175,8 @@
 
         .profile-pic img {
             border-radius: 50%;
-            width: 160px;
-            height: 160px;
+            width: 200px; /* Increased size */
+            height: 200px; /* Increased size */
             object-fit: cover;
             border: 4px solid #fff;
         }
@@ -253,5 +253,4 @@
 
         .btn:hover {
             background: #0a9396;
-            transition: background 0.3s;
-       
+            transition: background 
