@@ -121,7 +121,7 @@
         <div class="container">
             <h2>Resume</h2>
             <p>You can view and download my resume below:</p>
-            <a href="resume.pdf" download="Nisura_Perera_Resume.pdf" class="btn">Download Resume</a>
+            <a href="Nisura_Perera_Resume.pdf" download="Nisura_Perera_Resume.pdf" class="btn">Download Resume</a>
         </div>
     </section>
 
